@@ -1,0 +1,19 @@
+1 - Descargar e instlar go desde acá
+2 - Descargar TDM GCC Compiler de https://sourceforge.net/projects/tdm-gcc/
+
+
+
+Para crear una app con Fyne.
+
+Desde Visual Studio code ejecutar
+1 - go mode init myapp
+2 - go get fyne.io/fyne/v2@latest
+3 - Ejecutar: go get fyne.io/fyne/v2/internal/driver/glfw@v2.6.0
+4- Ejecutar: go get fyne.io/fyne/v2/internal/metadata@v2.6.0
+5 - Ejecutar: go get fyne.io/fyne/v2/app@v2.6.0	
+
+
+
+Para mas info ver este video
+
+https://www.youtube.com/watch?v=AmvsH1zNdgE
